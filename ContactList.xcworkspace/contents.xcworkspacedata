@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/yanadudareva/Desktop/Skillbox/iOS_lvl1/M20Homework/ContactList/ContactList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ContactList.xcodeproj">
+   </FileRef>
+</Workspace>
